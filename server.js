@@ -54,4 +54,4 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-client.login(process.env.TELEGRAM_BOT_KEY)
+client.login(process.env.DISCORD_BOT_KEY)
