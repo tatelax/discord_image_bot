@@ -1,1 +1,1 @@
-A bot for Telegram.
+A bot for Discord.
